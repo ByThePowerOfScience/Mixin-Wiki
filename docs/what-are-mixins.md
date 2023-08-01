@@ -6,6 +6,6 @@ Mixin was built to work for Minecraft, but also supports any environment where y
 
 Mixins are classes that allow you to perform these injections.
 
-## Mixin Principals
+## Mixin Principles
 
 Mixin is built off [ASM](https://asm.ow2.io), with the goal of having development be faster.
